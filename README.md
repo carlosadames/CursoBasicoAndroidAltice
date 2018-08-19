@@ -1,5 +1,7 @@
-Curso Android Básico por Altice Academy
+# H1 Curso Android Básico por Altice Academy
+
 Practica No. 1
+
 Dado la clase de Estudiantes, realizar el codigo necesario para obtener lo siguiente:
 
 1. Total de estudiantes
