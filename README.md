@@ -1,4 +1,4 @@
-# H1 Curso Android Básico por Altice Academy
+# Curso Android Básico por Altice Academy
 
 Practica No. 1
 
